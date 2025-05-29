@@ -27,11 +27,11 @@ such as the crankshaft, piston, connecting rod, camshaft, valves, and timing gea
 - Exploded view & section cuts for assembly clarity
 
 4. Bill of Materials (BOM)
--The engine consists of 14 key components, including:
+- The engine consists of 14 key components, including:
 
- Crankshaft (1x) – Transfers piston motion into rotational force
- Piston & Piston Pin (1x each) – Converts combustion energy into motion
- Connecting Rod & Lock (1x each) – Links piston to crankshaft
- Valves & Retainers (2x each) – Controls air/fuel intake and exhaust
- Camshaft & Rocker Arms (1x & 2x) – Manages valve timing
- Timing Gears (Bigger & Smaller) (1x each) – Synchronizes crankshaft & camshaft
+     Crankshaft (1x) – Transfers piston motion into rotational force,
+     Piston & Piston Pin (1x each) – Converts combustion energy into motion,
+     Connecting Rod & Lock (1x each) – Links piston to crankshaft,
+     Valves & Retainers (2x each) – Controls air/fuel intake and exhaust,
+     Camshaft & Rocker Arms (1x & 2x) – Manages valve timing,
+     Timing Gears (Bigger & Smaller) (1x each) – Synchronizes crankshaft & camshaft.
